@@ -1,0 +1,170 @@
+
+
+.customer{
+    width: 100%;
+    background-color:#D7F5F5;
+    height: 300px;
+}
+.customer h1{
+    font-size: 20px;
+    padding-left: 320px;
+    font-family:fantasy;
+    line-height: 5;
+}
+.customer1{
+    width: 210px;
+    height: 130px;
+    background-color:#ffffff;
+    margin-left: 325px;
+    margin-top: -220px;
+    border-radius: 8px;
+}
+
+.text{
+    margin-bottom: -30px;
+}
+.text h5, h6{
+    margin-top: -41px;
+    margin-left: 50px;
+    padding: 9px;
+
+    
+}
+.text h6{
+    color: grey;
+    
+}
+.comment{
+    margin-top: -22px;
+    line-height: 0.4;
+    font-size: 14px;
+    color: rgb(156, 153, 153);
+    margin-left: 20px;
+ 
+   font-size: 12px;
+}
+.img{
+   
+    margin-top: -12px;
+    margin-left: 8px;
+}
+.img img{
+    margin-top: -75px;
+    margin-left: 10px;
+}
+.date {
+    margin-top: -20px;
+}
+.march {
+    padding-left: 95px;
+    margin-top: -28px;
+    color: rgb(156, 153, 153);
+    font-size: 12px;
+    font-weight: lighter;
+    
+}
+.customer2{
+    width: 210px;
+    height: 180px;
+    background-color:#ffffff;
+      margin-top: -130px;
+      margin-left: 545px;
+      border-radius: 8px;
+
+
+
+}
+.customer3{
+    width: 210px;
+    height: 130px;
+    background-color:#ffffff;
+    margin-left: 765px;
+    margin-top: -180px;
+    border-radius: 8px;
+}
+.price{
+    margin-top: 130px;
+    text-align: center;
+    line-height: 0.4;
+    font-family: fantasy;
+    
+}
+.price h1{
+font-size: 18px;
+font-weight: bolder;
+}
+.price h4{
+   color: rgb(156, 153, 153);
+   font-weight: bold;
+   font-size: 11px;
+}
+.footer{
+    width: 320px;
+    height: 245px;
+    background-color: #FBF8F3;
+    border: 1px solid #FDE1AE;
+    margin-left: 500px;
+    border-radius: 8px;
+    margin-top: 28px;
+    font-family: fantasy;
+}
+.montly{
+    margin: 15px;
+    line-height: 0.3;
+    border-bottom: 1px solid  rgb(201, 197, 197);
+    width: 90%;
+    height: 60px;
+}
+.montly h4{
+    color:rgb(156, 153, 153);; ;
+}
+.mo{
+    margin-left: -25px;
+    margin-top: 18px;
+    color: rgb(156, 153, 153);;
+}
+.circle {
+    margin: 15px;
+    margin-top: -8px;
+    border-bottom: 1px solid  rgb(201, 197, 197);
+    width: 90%;
+   
+    height: 100px;
+    
+}
+.circle img {
+    display: block;
+    padding: 7px;
+    
+}
+.circletext{
+    margin-top: -128px;
+
+    margin-left: -10px;
+    
+}
+.circletext h6{
+    line-height: 2.4;
+    color: rgb(156, 153, 153);;
+}
+.circletext h4{
+    line-height: -20;
+}
+.foll{
+    margin-top: -50px;
+    color: rgb(156, 153, 153);
+
+}
+.trial{
+    height: 30px;
+    width: 90%;
+    background-color: #01ACEE;
+    margin: 20px;
+    border-radius: 6px;
+    margin-top: -20px;
+    text-align: center;
+}
+.trial h6{
+    padding-top: 18px;
+    color: white;
+}
